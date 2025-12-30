@@ -48,13 +48,6 @@ Currently strengthening my foundations in **DSA, ML, and applied AI systems**.
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ashish3120&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=ashish3120&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish3120&theme=dark&hide_border=false&layout=compact)
-
----
-
 ## 🔍 What I'm Currently Working On
 - Strengthening **DSA & Algorithmic thinking**
 - Building **ML & AI-powered real-world projects**
